@@ -2,6 +2,8 @@
 
 An open-source **Things 3** alternative for macOS, built with SwiftUI.
 
+![Demo image](assents/image.png)
+
 ## Features
 
 - **GTD workflow** — Inbox, Today, Upcoming, Anytime, Someday, Logbook, Trash
